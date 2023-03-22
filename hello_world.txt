@@ -1,0 +1,1 @@
+Git status command show the status of your repo.
